@@ -32,54 +32,61 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Priya Nakamura",
+			position: "Senior Data Engineer",
+			company: "MedDevice Manufacturing",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We went from spending 6 weeks manually labeling quality control images to having clean datasets ready in 3 days. Our AI model accuracy improved from 73% to 94%, and we saved $180K in the first quarter alone by catching defects earlier in production.",
+			image: "/generated/image-a-professional-asian-woman-with-a-confid.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Carlos Rodriguez",
+			position: "Head of Data Operations",
+			company: "Precision Logistics",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before this platform, our team was drowning in unlabeled shipping data. Now we process 10x more datasets with 40% fewer resources. The automated labeling reduced our model deployment time from 4 months to 6 weeks, helping us capture a $2.3M contract we would have lost otherwise.",
+			image: "/generated/image-a-professional-hispanic-man-with-a-confi.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Keisha Williams",
+			position: "AI Implementation Lead",
+			company: "AutoParts Direct",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The risk of deploying untested AI models kept me up at night. Their labeled datasets gave us confidence to automate our inventory predictions. We reduced stockouts by 65% and overstock by 45%, translating to $890K in working capital savings within 8 months.",
+			image: "/generated/image-a-professional-black-woman-with-a-confid.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Transform raw data into AI-ready datasets"
+	subtitle="Reduce labeling time by 85% with workflow-aware automation designed for manufacturing and quality control teams"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Workflow-aware auto-labeling",
+			description: "Our AI understands your manufacturing processes and automatically labels quality control data with 94% accuracy. Focus on building models, not labeling data."
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Manufacturing-specific models",
+			description: "Pre-trained on 50M+ industrial datasets covering defect detection, assembly validation, and quality metrics. Start with models that already understand your domain."
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Seamless pipeline integration",
+			description: "Connect directly to your existing data systems with APIs that understand operational workflows. No complex migrations or workflow disruptions required."
+		},
+		{
+			title: "Enterprise performance at mid-market cost",
+			description: "Get the same labeling quality as Scale AI at 60% lower cost with pricing designed for 500-2000 employee companies. Scale your AI initiatives without breaking budgets."
+		},
+		{
+			title: "Real-time quality validation",
+			description: "Every labeled dataset is validated against your specific quality standards with instant feedback loops. Catch labeling errors before they impact model training."
+		},
+		{
+			title: "Collaborative annotation platform",
+			description: "Enable your entire data engineering team to review, approve, and refine labels together with role-based permissions and audit trails."
 		}
 	]}
 />
