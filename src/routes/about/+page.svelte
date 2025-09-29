@@ -26,10 +26,9 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Turning data chaos into AI clarity"
+	subtitle="We exist to unlock the AI potential hiding in your company's data"
+	imageSrc="/generated/image-a-diverse-group-of-professionals-collabo.webp"
 />
 
 <!-- Story Section -->
