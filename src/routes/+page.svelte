@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	centered={false}
+	title="Turn messy data into real outcomes"
+	subtitle="Build models faster with labeled datasets that work"
+	imageSrc="/generated/image-a-data-engineer-sits-confidently-at-a-sp.webp"
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/dropbox.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/zillow.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/reddit.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
